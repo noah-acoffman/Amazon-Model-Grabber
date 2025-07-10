@@ -3,7 +3,8 @@ function extractModelNumber() {
     "Model Number",
     "Item model number",
     "Item Model Number",
-    "Model number"
+    "Model number",
+    "Item model number"
   ];
 
   const rows = document.querySelectorAll("#productDetails_techSpec_section_1 tr, #productDetails_detailBullets_sections1 tr, .a-keyvalue .a-row");

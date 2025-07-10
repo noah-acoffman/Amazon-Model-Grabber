@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Amazon Model Number Extractor",
-  "version": "1.0",
-  "description": "Extracts the model number from Amazon product pages for quicker scanning.",
+  "version": "1.3",
+  "description": "Extracts the model number from Amazon product pages for quicker HVQ scanning & convenience.",
   "permissions": ["activeTab", "scripting"],
   "action": {
     "default_popup": "popup.html",
